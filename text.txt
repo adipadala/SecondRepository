@@ -1,2 +1,3 @@
 Welcome to the git tutorial
 this is Adikrishna
+Modified my first file in GitHub secondRepository
